@@ -40,5 +40,8 @@
         "single"
       ]
     }
+  },
+  "dependencies": {
+    "gulp-sass": "^2.3.1"
   }
 }
